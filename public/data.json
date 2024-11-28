@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "modelo": "Campus 00s",
+        "color": "Negras",
+        "stock": 10,
+        "precio": 5500,
+        "img": "public/img/Campus 00s negras.jpeg"
+        
+    },
+
+
+    {
+        "id": 2,
+        "modelo": "Campus 00s",
+        "color": "Celestes",
+        "stock": 10,
+        "precio": 5500,
+        "img": "public/img/Campus azules.jpeg"
+        
+    } ,
+
+    {
+        "id": 3,
+        "modelo": "Campus 00s",
+        "color": "Marron con negras",
+        "stock": 10,
+        "precio": 5500,
+        "img": "public/img/campus marrones.jpeg"
+    
+    },
+    {
+        "id": 4,
+        "modelo": "Puma SUEDE XL",
+        "color": "Negras",
+        "stock": 10,
+        "precio": 4500,
+        "img": "public/img/Suede Negras.jpeg"
+       
+    },
+    {
+        "id": 5,
+        "modelo": "Puma SUEDE XL",
+        "color": "Blancas",
+        "stock": 10,
+        "precio": 4500,
+        "img": "public/img/Suede blancas.jpeg"
+        
+    },
+    {
+        "id": 6,
+        "modelo": "Puma SUEDE XL",
+        "color": "Azules",
+        "stock": 10,
+        "precio": 4500,
+        "img": "public/img/suede azul.jpeg"
+       
+    },
+    {
+        "id": 7,
+        "modelo": "Adidas SAMBA",
+        "color": "Blancas rayas negras",
+        "stock": 10,
+        "precio": 6200,
+        "img": "public/img/Samba Blanca (2).jpeg"
+      
+    },
+    {
+        "id": 8,
+        "modelo": "Adidas SAMBA",
+        "color": "Blancas rayas verdes",
+        "stock": 10,
+        "precio": 6200,
+        "img": "public/img/samba verde.jpeg"
+       
+    },
+    {
+        "id": 9,
+        "modelo": "Adidas SAMBA",
+        "color": "Bordo rayas blancas",
+        "stock": 10,
+        "precio": 6200,
+        "img": "public/img/samba bordo.jpeg"
+       
+    }
+]
